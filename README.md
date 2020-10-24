@@ -328,7 +328,7 @@
 
         <div class="header-rt">唐英昆</div>
 
-        <div class="header-rb">计算机科学与技术学院(计科（金融信息化）1801班)</div>
+        <div class="header-rb">计算机科学与技术学院(计科1801班)</div>
 
     </div>
 
@@ -370,7 +370,7 @@
 
             <div class="listr">
 
-              13256253363
+              13233635625
 
             </div>
 
