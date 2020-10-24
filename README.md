@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 <html style="font-size: 50.02px;"><head>
 
